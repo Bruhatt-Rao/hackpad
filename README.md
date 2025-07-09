@@ -1,7 +1,15 @@
 # hackpad
 
-# Bill of Materials (BOM)
+## Overview
+![Overall View](assets/overall.png)
 
+## PCB Layout
+![PCB Layout](assets/pcb.png)
+
+## Schematic
+![Schematic](assets/schematic.png)
+
+# Bill of Materials (BOM)
 ## Components List
 
 | Reference | Quantity | Description | Package/Type | Notes |
