@@ -16,6 +16,9 @@ I named this project Hexapad because it uses a six key design!
 ## Schematic
 ![Schematic](assets/schematic.png)
 
+## Case
+![Case](assets/case.png)
+
 # Bill of Materials (BOM)
 ## Components List
 
