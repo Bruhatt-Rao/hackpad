@@ -1,4 +1,11 @@
-# hackpad
+# Hexapad
+I named this project Hexapad because it uses a six key design!
+
+## Features
+- Six key design
+- RGB LED backlighting
+- Customizable keycaps
+- Compact and portable
 
 ## Overview
 ![Overall View](assets/overall.png)
